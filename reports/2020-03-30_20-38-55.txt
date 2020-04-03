@@ -1,0 +1,203 @@
+USA - Cases: 155969, Deaths: 2854, Recovered: 5211
+Italy - Cases: 101739, Deaths: 11591, Recovered: 14620
+Spain - Cases: 85195, Deaths: 7340, Recovered: 16780
+Germany - Cases: 63929, Deaths: 560, Recovered: 9211
+France - Cases: 44550, Deaths: 3024, Recovered: 7927
+Iran - Cases: 41495, Deaths: 2757, Recovered: 13911
+UK - Cases: 22141, Deaths: 1408, Recovered: 135
+Switzerland - Cases: 15760, Deaths: 348, Recovered: 1823
+Belgium - Cases: 11899, Deaths: 513, Recovered: 1527
+Netherlands - Cases: 11750, Deaths: 864, Recovered: 250
+Turkey - Cases: 10827, Deaths: 168, Recovered: 162
+S. Korea - Cases: 9661, Deaths: 158, Recovered: 5228
+Austria - Cases: 9541, Deaths: 108, Recovered: 636
+Canada - Cases: 6671, Deaths: 67, Recovered: 1014
+Portugal - Cases: 6408, Deaths: 140, Recovered: 43
+Israel - Cases: 4695, Deaths: 16, Recovered: 134
+Norway - Cases: 4445, Deaths: 32, Recovered: 12
+Brazil - Cases: 4371, Deaths: 141, Recovered: 120
+Australia - Cases: 4245, Deaths: 18, Recovered: 244
+Sweden - Cases: 4028, Deaths: 146, Recovered: 16
+Czechia - Cases: 2942, Deaths: 23, Recovered: 25
+Malaysia - Cases: 2626, Deaths: 37, Recovered: 479
+Ireland - Cases: 2615, Deaths: 46, Recovered: 5
+Denmark - Cases: 2577, Deaths: 77, Recovered: 1
+Chile - Cases: 2449, Deaths: 8, Recovered: 156
+Poland - Cases: 2055, Deaths: 31, Recovered: 7
+Luxembourg - Cases: 1988, Deaths: 22, Recovered: 40
+Ecuador - Cases: 1962, Deaths: 60, Recovered: 3
+Romania - Cases: 1952, Deaths: 52, Recovered: 209
+Japan - Cases: 1866, Deaths: 54, Recovered: 424
+Russia - Cases: 1836, Deaths: 9, Recovered: 66
+Pakistan - Cases: 1690, Deaths: 21, Recovered: 76
+Philippines - Cases: 1546, Deaths: 78, Recovered: 42
+Thailand - Cases: 1524, Deaths: 9, Recovered: 229
+Saudi Arabia - Cases: 1453, Deaths: 8, Recovered: 115
+Indonesia - Cases: 1414, Deaths: 122, Recovered: 75
+Finland - Cases: 1352, Deaths: 13, Recovered: 10
+South Africa - Cases: 1326, Deaths: 3, Recovered: 31
+Greece - Cases: 1212, Deaths: 43, Recovered: 52
+Iceland - Cases: 1086, Deaths: 2, Recovered: 157
+India - Cases: 1071, Deaths: 29, Recovered: 100
+Mexico - Cases: 993, Deaths: 20, Recovered: 35
+Panama - Cases: 989, Deaths: 24, Recovered: 4
+Peru - Cases: 950, Deaths: 18, Recovered: 16
+Dominican Republic - Cases: 901, Deaths: 42, Recovered: 4
+Singapore - Cases: 879, Deaths: 3, Recovered: 228
+Argentina - Cases: 820, Deaths: 23, Recovered: 228
+Colombia - Cases: 798, Deaths: 12, Recovered: 15
+Croatia - Cases: 790, Deaths: 6, Recovered: 67
+Serbia - Cases: 785, Deaths: 16, Recovered: 42
+Slovenia - Cases: 756, Deaths: 11, Recovered: 10
+Estonia - Cases: 715, Deaths: 3, Recovered: 20
+Diamond Princess - Cases: 712, Deaths: 10, Recovered: 603
+Qatar - Cases: 693, Deaths: 1, Recovered: 51
+Egypt - Cases: 656, Deaths: 41, Recovered: 150
+Hong Kong - Cases: 642, Deaths: 4, Recovered: 118
+Iraq - Cases: 630, Deaths: 46, Recovered: 152
+UAE - Cases: 611, Deaths: 5, Recovered: 61
+New Zealand - Cases: 589, Deaths: 1, Recovered: 63
+Algeria - Cases: 584, Deaths: 35, Recovered: 37
+Morocco - Cases: 534, Deaths: 33, Recovered: 14
+Bahrain - Cases: 515, Deaths: 4, Recovered: 279
+Lithuania - Cases: 491, Deaths: 7, Recovered: 7
+Armenia - Cases: 482, Deaths: 3, Recovered: 30
+Ukraine - Cases: 480, Deaths: 11, Recovered: 6
+Hungary - Cases: 447, Deaths: 15, Recovered: 34
+Lebanon - Cases: 446, Deaths: 11, Recovered: 35
+Latvia - Cases: 376, Deaths: 0, Recovered: 1
+Bulgaria - Cases: 359, Deaths: 8, Recovered: 17
+Bosnia and Herzegovina - Cases: 358, Deaths: 9, Recovered: 17
+Slovakia - Cases: 336, Deaths: 0, Recovered: 7
+Andorra - Cases: 334, Deaths: 6, Recovered: 6
+Costa Rica - Cases: 314, Deaths: 2, Recovered: 3
+Tunisia - Cases: 312, Deaths: 8, Recovered: 2
+Uruguay - Cases: 310, Deaths: 1, Recovered: 0
+Taiwan - Cases: 306, Deaths: 5, Recovered: 39
+Kazakhstan - Cases: 302, Deaths: 1, Recovered: 21
+Moldova - Cases: 298, Deaths: 2, Recovered: 15
+North Macedonia - Cases: 285, Deaths: 7, Recovered: 12
+Azerbaijan - Cases: 273, Deaths: 4, Recovered: 26
+Jordan - Cases: 268, Deaths: 5, Recovered: 26
+Kuwait - Cases: 266, Deaths: 0, Recovered: 72
+Burkina Faso - Cases: 246, Deaths: 12, Recovered: 31
+San Marino - Cases: 230, Deaths: 25, Recovered: 13
+Cyprus - Cases: 230, Deaths: 7, Recovered: 22
+Réunion - Cases: 224, Deaths: 0, Recovered: 1
+Albania - Cases: 223, Deaths: 11, Recovered: 44
+Vietnam - Cases: 203, Deaths: 0, Recovered: 55
+Oman - Cases: 179, Deaths: 0, Recovered: 29
+Afghanistan - Cases: 170, Deaths: 4, Recovered: 2
+Cuba - Cases: 170, Deaths: 4, Recovered: 4
+Faeroe Islands - Cases: 168, Deaths: 0, Recovered: 70
+Ivory Coast - Cases: 165, Deaths: 1, Recovered: 4
+Senegal - Cases: 162, Deaths: 0, Recovered: 27
+Malta - Cases: 156, Deaths: 0, Recovered: 2
+Ghana - Cases: 152, Deaths: 5, Recovered: 2
+Belarus - Cases: 152, Deaths: 0, Recovered: 32
+Uzbekistan - Cases: 149, Deaths: 2, Recovered: 7
+Channel Islands - Cases: 141, Deaths: 2, Recovered: 0
+Cameroon - Cases: 139, Deaths: 6, Recovered: 5
+Honduras - Cases: 139, Deaths: 3, Recovered: 3
+Venezuela - Cases: 129, Deaths: 3, Recovered: 39
+Mauritius - Cases: 128, Deaths: 3, Recovered: 0
+Brunei  - Cases: 127, Deaths: 1, Recovered: 38
+Sri Lanka - Cases: 122, Deaths: 2, Recovered: 15
+Palestine - Cases: 115, Deaths: 1, Recovered: 18
+Nigeria - Cases: 111, Deaths: 2, Recovered: 3
+Cambodia - Cases: 107, Deaths: 0, Recovered: 21
+Guadeloupe - Cases: 106, Deaths: 4, Recovered: 17
+Georgia - Cases: 103, Deaths: 0, Recovered: 20
+Bolivia - Cases: 97, Deaths: 4, Recovered: 0
+Kyrgyzstan - Cases: 94, Deaths: 0, Recovered: 3
+Martinique - Cases: 93, Deaths: 1, Recovered: 0
+Montenegro - Cases: 91, Deaths: 1, Recovered: 0
+Trinidad and Tobago - Cases: 82, Deaths: 3, Recovered: 1
+Mayotte - Cases: 82, Deaths: 0, Recovered: 10
+DRC - Cases: 81, Deaths: 8, Recovered: 2
+Rwanda - Cases: 70, Deaths: 0, Recovered: 0
+Gibraltar - Cases: 69, Deaths: 0, Recovered: 34
+Paraguay - Cases: 64, Deaths: 3, Recovered: 1
+Liechtenstein - Cases: 62, Deaths: 0, Recovered: 0
+Kenya - Cases: 50, Deaths: 1, Recovered: 1
+Aruba - Cases: 50, Deaths: 0, Recovered: 1
+Bangladesh - Cases: 49, Deaths: 5, Recovered: 19
+Monaco - Cases: 49, Deaths: 1, Recovered: 1
+Isle of Man - Cases: 49, Deaths: 0, Recovered: 0
+French Guiana - Cases: 43, Deaths: 0, Recovered: 6
+Madagascar - Cases: 43, Deaths: 0, Recovered: 0
+Macao - Cases: 38, Deaths: 0, Recovered: 10
+Guatemala - Cases: 36, Deaths: 1, Recovered: 10
+Jamaica - Cases: 36, Deaths: 1, Recovered: 2
+French Polynesia - Cases: 35, Deaths: 0, Recovered: 0
+Zambia - Cases: 35, Deaths: 0, Recovered: 0
+Barbados - Cases: 33, Deaths: 0, Recovered: 0
+Uganda - Cases: 33, Deaths: 0, Recovered: 0
+Togo - Cases: 30, Deaths: 1, Recovered: 1
+El Salvador - Cases: 30, Deaths: 0, Recovered: 0
+Mali - Cases: 25, Deaths: 2, Recovered: 0
+Ethiopia - Cases: 23, Deaths: 0, Recovered: 4
+Niger - Cases: 22, Deaths: 3, Recovered: 0
+Bermuda - Cases: 22, Deaths: 0, Recovered: 2
+Guinea - Cases: 22, Deaths: 0, Recovered: 0
+Congo - Cases: 19, Deaths: 0, Recovered: 0
+Tanzania - Cases: 19, Deaths: 0, Recovered: 1
+Djibouti - Cases: 18, Deaths: 0, Recovered: 0
+Maldives - Cases: 17, Deaths: 0, Recovered: 13
+Saint Martin - Cases: 15, Deaths: 1, Recovered: 2
+Haiti - Cases: 15, Deaths: 0, Recovered: 1
+New Caledonia - Cases: 15, Deaths: 0, Recovered: 0
+Bahamas - Cases: 14, Deaths: 0, Recovered: 1
+Myanmar - Cases: 14, Deaths: 0, Recovered: 0
+Cayman Islands - Cases: 12, Deaths: 1, Recovered: 0
+Equatorial Guinea - Cases: 12, Deaths: 0, Recovered: 0
+Eritrea - Cases: 12, Deaths: 0, Recovered: 0
+Mongolia - Cases: 12, Deaths: 0, Recovered: 2
+Curaçao - Cases: 11, Deaths: 1, Recovered: 2
+Dominica - Cases: 11, Deaths: 0, Recovered: 0
+Namibia - Cases: 11, Deaths: 0, Recovered: 2
+Greenland - Cases: 10, Deaths: 0, Recovered: 2
+Syria - Cases: 9, Deaths: 1, Recovered: 0
+Grenada - Cases: 9, Deaths: 0, Recovered: 0
+Saint Lucia - Cases: 9, Deaths: 0, Recovered: 1
+Eswatini - Cases: 9, Deaths: 0, Recovered: 0
+Guyana - Cases: 8, Deaths: 1, Recovered: 0
+Guinea-Bissau - Cases: 8, Deaths: 0, Recovered: 0
+Laos - Cases: 8, Deaths: 0, Recovered: 0
+Libya - Cases: 8, Deaths: 0, Recovered: 0
+Mozambique - Cases: 8, Deaths: 0, Recovered: 0
+Seychelles - Cases: 8, Deaths: 0, Recovered: 0
+Suriname - Cases: 8, Deaths: 0, Recovered: 0
+Angola - Cases: 7, Deaths: 2, Recovered: 0
+Gabon - Cases: 7, Deaths: 1, Recovered: 0
+Zimbabwe - Cases: 7, Deaths: 1, Recovered: 0
+Antigua and Barbuda - Cases: 7, Deaths: 0, Recovered: 0
+Saint Kitts and Nevis - Cases: 7, Deaths: 0, Recovered: 0
+Sudan - Cases: 6, Deaths: 2, Recovered: 0
+Cabo Verde - Cases: 6, Deaths: 1, Recovered: 0
+Benin - Cases: 6, Deaths: 0, Recovered: 0
+Vatican City - Cases: 6, Deaths: 0, Recovered: 0
+St. Barth - Cases: 6, Deaths: 0, Recovered: 1
+Sint Maarten - Cases: 6, Deaths: 0, Recovered: 0
+Nepal - Cases: 5, Deaths: 0, Recovered: 1
+Chad - Cases: 5, Deaths: 0, Recovered: 0
+Fiji - Cases: 5, Deaths: 0, Recovered: 0
+Mauritania - Cases: 5, Deaths: 0, Recovered: 2
+Montserrat - Cases: 5, Deaths: 0, Recovered: 0
+Turks and Caicos - Cases: 5, Deaths: 0, Recovered: 0
+Gambia - Cases: 4, Deaths: 1, Recovered: 0
+Nicaragua - Cases: 4, Deaths: 1, Recovered: 0
+Bhutan - Cases: 4, Deaths: 0, Recovered: 0
+Belize - Cases: 3, Deaths: 0, Recovered: 0
+Botswana - Cases: 3, Deaths: 0, Recovered: 0
+CAR - Cases: 3, Deaths: 0, Recovered: 0
+Liberia - Cases: 3, Deaths: 0, Recovered: 0
+Somalia - Cases: 3, Deaths: 0, Recovered: 0
+MS Zaandam - Cases: 2, Deaths: 0, Recovered: 0
+Anguilla - Cases: 2, Deaths: 0, Recovered: 0
+British Virgin Islands - Cases: 2, Deaths: 0, Recovered: 0
+Papua New Guinea - Cases: 1, Deaths: 0, Recovered: 0
+St. Vincent Grenadines - Cases: 1, Deaths: 0, Recovered: 1
+Timor-Leste - Cases: 1, Deaths: 0, Recovered: 0
+China - Cases: 81470, Deaths: 3304, Recovered: 75700
+Total: - Cases: 768466, Deaths: 36914, Recovered: 160243
