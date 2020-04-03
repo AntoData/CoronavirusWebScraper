@@ -2,13 +2,13 @@
 
 # @author: ingov
 
-# We use folium to genetate the maps
+# We use folium to generate the maps
 import folium
 # We use LinearColormap to create scales for pair of colours-values
 from branca.colormap import LinearColormap
 # We use branca to create the legend for our map
 import branca
-
+# We import this module to manage data frames
 import pandas
 
 
